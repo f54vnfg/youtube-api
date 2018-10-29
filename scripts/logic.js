@@ -35,6 +35,7 @@ function mainVid(id) {
     allowfullscreen></iframe>
   `);
 }
+// https://stackoverflow.com/questions/7853904/how-to-detect-when-a-youtube-video-finishes-playing
 
 function resultsLoop(data) {
 

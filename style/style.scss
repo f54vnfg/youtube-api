@@ -2,10 +2,6 @@
   background-color: #eee;
 }
 
-.main {
-  padding: 370px 18px 10px;
-}
-
 .body {
   &__wrap {
     width: 560px;
@@ -27,6 +23,10 @@
   text-align: center;
   width: 560px;
   background-color: #fff;
+}
+
+.main {
+  padding: 370px 18px 10px;
 }
 
 .video {
